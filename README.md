@@ -44,11 +44,43 @@ Cisco Packet tracer
 
 <h2>Búið til notendahópana (e. user group) Innkaup, Sala, Yfirstjórn og Allir. Allir starfsmenn eiga að vera í einnum deildarhóp og síðan í Allir hópnum.</h2>
 
+
+
 <h2>Skrifið svo skriftu í PowerShell sem býr til notendurna í þessari skrá. Skriftan á að búa til notendurna út frá þeim upplýsingum sem eru í skránni ásamt því að setja þá í hópana sem þið gerðuð hér fyrir ofan. Athugið að líklega þarf líka að setja þá í aðra hópa, t.d. Allir hópinn.</h2>
+
+
 
 <h2>Gott er að skoða Import-Csv skipunina í PowerShell fyrir lausnina á þessum lið. Sjá dæmi um notkun hér.</h2>
 
+
+
 <h2>Tryggið að allir notendurnir geti skráð sig inn.</h2>
 
-<h2>3. Skrár, möppur og réttindi (20%)
-Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna Gögn á rót C drifsins. Búið svo möppurnar fyrir hópana til í möppunni Gögn og stillið svo réttindin á möppunum. Búið til textaskrá í hverri möppu sem heitir eftir nafninu á möppunni.</h2>
+
+
+<h1>3. Skrár, möppur og réttindi (20%)</h1>
+  
+<h2>Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna Gögn á rót C drifsins. Búið svo möppurnar fyrir hópana til í möppunni Gögn og stillið svo réttindin á möppunum. Búið til textaskrá í hverri möppu sem heitir eftir nafninu á möppunni.</h2>
+
+
+
+
+
+
+<h1>4. Öryggismál (10%)</h1>
+<h2>Breyttu lykilorðareglunni þannnig að:
+Lágmarkslengd lykilorða verður 8 stafir.
+Einföld lykilorð eru ekki heimil.</h2>
+  
+<h2>Eldveggur:
+Lokað fyrir allt nema ping.</h2>
+<h1>5. Netkerfi (30%)</h1>
+Leysið þetta PacketTracer verkefni. Áður en þið byrjið á því gæti verið gott að skoða þetta æfingaverkefni.
+
+Skil á verkefninu
+Liði 1 til og með 4 sýnið þið kennaranum ykkar.
+
+Lið 5 á að skila á Innu.
+
+
+
