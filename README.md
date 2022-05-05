@@ -62,7 +62,7 @@ búið
   
 <h2>Hver hópur þarf að eiga sér sína eigin möppu sem eingöngu þeir sem eru í þeim hóp hafa aðgang að. Síðan þarf að vera til mappan Sameign sem allir notendurnir hafa aðgang að. Búðu til möppuna Gögn á rót C drifsins. Búið svo möppurnar fyrir hópana til í möppunni Gögn og stillið svo réttindin á möppunum. Búið til textaskrá í hverri möppu sem heitir eftir nafninu á möppunni.</h2>
 
-
+búið
 
 
 
@@ -72,6 +72,9 @@ búið
 Lágmarkslengd lykilorða verður 8 stafir.
 Einföld lykilorð eru ekki heimil.</h2>
   
+  
+búið
+
 <h2>Eldveggur:
 Lokað fyrir allt nema ping.</h2>
 <h1>5. Netkerfi (30%)</h1>
