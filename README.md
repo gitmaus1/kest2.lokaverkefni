@@ -56,7 +56,7 @@ Cisco Packet tracer
 
 <h2>Tryggið að allir notendurnir geti skráð sig inn.</h2>
 
-
+búið
 
 <h1>3. Skrár, möppur og réttindi (20%)</h1>
   
